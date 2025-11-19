@@ -21,7 +21,7 @@ public class Ejemplo02 {
         int limite;
         int contador = 1;
         System.out.println("Ingrese el Límite");
-        limite = entrada.nextInt(); 
+        limite = entrada.nextInt(); //6
         while (contador <= limite){
             
             if (contador%2!=0) {
@@ -34,3 +34,7 @@ public class Ejemplo02 {
         
     }
 }
+/*
+Se pide ingresar un limite por teclado pero al ingresar el numero va de 2 en dos 
+es decir que solo salen numeros impares y sigue asi hasta el limite.
+*/
