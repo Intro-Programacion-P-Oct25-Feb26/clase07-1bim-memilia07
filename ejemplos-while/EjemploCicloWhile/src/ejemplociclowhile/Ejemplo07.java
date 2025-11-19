@@ -50,3 +50,6 @@ public class Ejemplo07 {
 
     }
 }
+/*
+Se incrementa el contador y 
+*/
