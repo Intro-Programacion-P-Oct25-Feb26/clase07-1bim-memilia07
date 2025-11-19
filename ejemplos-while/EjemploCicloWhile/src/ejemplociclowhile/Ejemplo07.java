@@ -51,5 +51,5 @@ public class Ejemplo07 {
     }
 }
 /*
-Se incrementa el contador y 
+Se incrementa el contador en las notas y el ciclo se repite
 */
